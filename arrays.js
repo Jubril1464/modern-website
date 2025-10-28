@@ -76,7 +76,7 @@
 // const capitalNames = names.map((a) => a.toUpperCase());
 // console.log(capitalNames)
 
-/// Objects
+//// Objects
 
 const product = {
   name: "Laptop",
